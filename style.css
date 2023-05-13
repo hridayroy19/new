@@ -1,0 +1,93 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+body{
+    background-color: rgb(226, 172, 222);
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(228, 199, 226);
+}
+.picture{
+    width: 100px;
+    height: 120px;
+    border-radius:5px;
+ border:1px solid rgb(255, 255, 255);
+   padding:10px;
+   float: left;
+}
+.bio{
+    float: left;
+    color: aqua;
+    padding:30px;
+}
+.contrac{
+    float: left;
+    padding: 30px;
+}
+.contrac a{
+    text-decoration: none;
+    color:blueviolet;
+    font-weight: bold;
+
+}
+.contrac a:hover{
+    text-decoration: underline;
+    color: rgb(199, 26, 26);
+}
+.div-clear{
+    clear: both;
+    
+}
+.hr{
+    border: solid rgb(214, 6, 6) 5px;
+    width: 500px;
+border-bottom: none;
+margin: 30px;
+
+}
+#personal-information{
+
+}
+.contant{
+margin-top: 20px;
+}
+.div-left{ width: 20%;
+    float: left;
+
+}
+.div-right{
+    width: 70%;
+    float: left;
+}
+.common-hr{
+    height: 100%;
+    border: black solid 2px;
+    border-bottom: none;
+    margin:20px auto;
+}
+.boder{
+    white-space: 100%;
+    border: black solid 2px;
+    border-bottom:none ;
+    margin:20px auto;
+}
+.bottam-contanir{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+
+}
+.bottam-contanir a{
+color: white;
+    margin: 20px;
+    text-decoration: none;
+
+}
+.bottam-contanir p{
+    margin-top: 20px;
+    color: white;
+}
